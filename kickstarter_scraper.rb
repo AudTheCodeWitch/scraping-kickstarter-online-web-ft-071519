@@ -19,7 +19,7 @@ def create_project_hash
     }
   end
   
-  print projects
+  p projects
   
 end
 
